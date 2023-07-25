@@ -2,6 +2,10 @@
 /******* String in JavaScript *********/
 //      *******************
 
+
+
+
+
 //What Are Strings?
 // A javaScript String is zero or more characters written inside Quotes
 

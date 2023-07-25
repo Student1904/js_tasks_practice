@@ -14,7 +14,6 @@ function BMI(W, H) {
 
 const W = 10; 
 const H = 2.5; 
-
 const D = BMI(W, H);
 console.log(D); 
 

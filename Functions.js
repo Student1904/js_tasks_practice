@@ -1,6 +1,6 @@
 //-----Function Definition-----
-let a = 10,
-    b = 20;
+let b = 10,
+    a = 20;
 
 //Parametrize function
 function sum(a, b) /*Parameters */ {
